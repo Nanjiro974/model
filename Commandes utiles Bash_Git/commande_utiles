@@ -1,0 +1,205 @@
+    1  mkdir depot_example
+    2  ls
+    3  cd depot_example
+    4  ll
+    5  git status
+    6  git init
+    7  git status
+    8  commit
+    9  ll
+   10  touch README.md
+   11  ll
+   12  git status
+   13  add README.md &
+   14  git add README.MD
+   15  git status
+   16  git commit
+   17  git status
+   18  ll
+   19  em README;md&
+   20  em README.md &
+   21  git status
+   22  git add README.md
+   23  git status
+   24  git commit
+   25  git status
+   26  history > git_log.txt
+   27  pwd
+   28  cd Documents
+   29  ll
+   30  mkdir dossierGit
+   31  cd dossierGit
+   32  pwd
+   33  mkdir model
+   34  cd model
+   35  git init
+   36  touch readme.md
+   37  ls
+   38  git status
+   39  git config --global core.editor "'C:/Program Files/Notepad++/notepad++.exe' -multiInst -notabbar -nosession -noPlugin"
+   40  git commit
+   41  git config --global user.email "armougom.t@gmail.com"
+   42  git config --global user.name "Your Name"
+   43  git config --global user.name "Your Name"
+   44  git config --global user.name "Nanjiro"
+   45  git commit
+   46  git add readme.md
+   47  git commit
+   48  git status
+   49  git status
+   50  git status
+   51  git commit
+   52  git add redme.md
+   53  git add readme.md 
+   54  gitt commit
+   55  git commit
+   56  git status
+   57  git add calcul.html
+   58  dit add index.htmal
+   59  git add index.html
+   60  ll
+   61  git status
+   62  git add mousse.html
+   63  git add page_zinfo.974
+   64  git add page_zinfo974.html
+   65  git status
+   66  git commit
+   67  git status
+   68  git push -u origine master
+   69  git status
+   70  git log
+   71  git remote add origin https://github.com/Nanjiro974/model.git
+   72  git push -u origine master
+   73  git push -u origin master
+   74  git push -u origin master
+   75  ls
+   76  documents
+   77  get Document
+   78  get Documents
+   79  git status
+   80  mkdire depot_sprint01
+   81  mkdire depot
+   82  mkdir depot
+   83  ls
+   84  mkdir depot_sprint01
+   85  ll
+   86  mkdir Document_dossierGit
+   87  ll
+   88  ls
+   89  git stautus
+   90  git status 
+   91  cd Documents
+   92  cd dossierGit
+   93  cd sprint_01/
+   94  ls
+   95  git init
+   96  git status
+   97  git add app.js
+   98  git add generateur.html 
+   99  git add style.css 
+  100  git commit
+  101   
+  102  git remote add origin https://github.com/Nanjiro974/Nanjiro974.gitub.io.git
+  103  git push -u origin master
+  104  git status
+  105  git status
+  106  git status
+  107  git add index.html.html 
+  108  git commit
+  109  git status
+  110  git add index.html
+  111  git commit
+  112  git status
+  113  git deleted: generateur.html
+  114  git add generateur.html 
+  115  git add index.html.html 
+  116  git commit
+  117  git status
+  118  git push -u master
+  119  git push
+  120  git push -u origine master
+  121  git push -u origin master
+  122  git status
+  123  git remote add origin https://github.com/Nanjiro974/sprint_01.git
+  124  git status
+  125  git push -u origin master 
+  126  git init
+  127  git status
+  128  git add *
+  129  git commit
+  130  git stau
+  131  git status
+  132  git remote add origin https://github.com/Nanjiro974/sprint_01.git
+  133  git push -u origin master
+  134  git remote add origin https://github.com/Nanjiro974/sprint_01.git
+  135  git remote add origin https://github.com/Nanjiro974/sprint_01.git
+  136  git status
+  137  cd Documents
+  138  cd dossierGit
+  139  git init
+  140  git status
+  141  git add sprint_01/
+  142  git commit
+  143  git status
+  144  git remote add origin https://github.com/Nanjiro974/sprint_01.git
+  145  git push -u origin master
+  146  cd sprint_01/
+  147  git status
+  148  ls
+  149  git push -u origin master
+  150  cd Documents
+  151  cd dossierGit
+  152  git init
+  153  git stauts
+  154  git status
+  155  git add model
+  156  git commit
+  157  git status
+  158  git push -u origin master
+  159  ls
+  160  cd sprint_01/
+  161  ls
+  162  git status
+  163  git remote -vv
+  164  git remote --help
+  165  git remote
+  166  git remote
+  167  git remote set-url origin https://github.com/Nanjiro974/sprint_01.git
+  168  git remote _vv
+  169  git remote -vv
+  170  git fetch
+  171  git status
+  172  git log
+  173  git push
+  174  git push -f
+  175  cd..
+  176  cd ..
+  177  git remote -vv
+  178  ls -a
+  179  rm -r .git
+  180  rm -rf .git
+  181  ls -a
+  182  cd sprint
+  183  cd sprint_01
+  184  touch test01
+  185  ls
+  186  git status
+  187  git add test01 
+  188  git commit
+  189  git push
+  190  git rm test01
+  191  ls
+  192  git status
+  193  git commit
+  194  git push
+  195  history
+  196  cd ..
+  197  history > commande_utiles
+  198  ls
+  199  git status
+  200  mv commande_utiles model
+  201  ls
+  202  cd model
+  203  ls
+  204  git status
+  205  history > commande_utiles 
